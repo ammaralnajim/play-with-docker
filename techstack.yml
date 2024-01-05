@@ -2,7 +2,7 @@ repo_name: ammaralnajim/play-with-docker
 report_id: 5d3edf828a3cca6ad67d00acd7ac7b1a
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:36:00+00:00'
+timestamp: '2024-01-05T08:19:50+00:00'
 requested_by: rishabh-yadav11
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -37,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: ceph
   description: A free-software storage platform
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: File Storage
   image_url: https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Jonathan Leibiusky @xetorthio
   last_updated_on: 2016-11-17 15:29:08.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -67,6 +72,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: GitHub
   description: Powerful collaboration, review, and code management for open source
@@ -77,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Collaboration & Version Control
   image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Paul Jolly
   last_updated_on: 2020-04-01 11:47:27.000000000 Z
@@ -88,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/.github/workflows/test.yml
   detection_source: ".github/workflows/test.yml"
   last_updated_by: Anjia Wang
   last_updated_on: 2020-10-08 22:09:01.000000000 Z
@@ -99,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/1179/preview.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Jonathan Leibiusky @xetorthio
   last_updated_on: 2017-07-25 19:36:10.000000000 Z
@@ -112,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Paul Jolly
   last_updated_on: 2020-04-01 11:47:27.000000000 Z
@@ -125,6 +135,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/prometheus.yml
   detection_source: prometheus.yml
   last_updated_by: Jonathan Leibiusky @xetorthio
   last_updated_on: 2017-06-14 23:59:50.000000000 Z
@@ -138,6 +149,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Marcos Lilljedahl
   last_updated_on: 2020-06-12 04:44:24.000000000 Z
@@ -149,6 +161,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/handlers/www/robots.txt
   detection_source: handlers/www/robots.txt
   last_updated_by: Jonathan Leibiusky @xetorthio
   last_updated_on: 2016-11-15 17:58:11.000000000 Z
@@ -160,6 +173,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -170,6 +184,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker
   detection_source: Repo Metadata
 - name: aws-sdk-go
   description: AWS SDK for the Go programming language
@@ -207,6 +222,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Paul Jolly
   last_updated_on: 2020-10-06 13:29:27.000000000 Z
@@ -305,6 +321,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Paul Jolly
   last_updated_on: 2020-04-01 11:47:27.000000000 Z
@@ -484,6 +501,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ammaralnajim/play-with-docker/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Paul Jolly
   last_updated_on: 2020-04-01 11:47:27.000000000 Z
